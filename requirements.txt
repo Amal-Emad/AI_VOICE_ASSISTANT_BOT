@@ -1,0 +1,32 @@
+# requirements.txt
+
+# Speech Recognition
+SpeechRecognition==3.8.1
+
+# Text-to-Speech
+pyttsx3==2.90
+
+# TensorFlow for RNN model
+tensorflow==2.7.0
+
+# Wikipedia API
+wikipedia-api==0.5.4
+
+# GUI and Themed Styling
+tk==8.6.10
+ttkthemes==3.2.0
+
+# Threading
+threading2==2.1.0
+
+# GUI Styling
+Pillow==8.3.2
+
+# Audio Processing
+pyaudio==0.2.11
+
+# NLP and Language Processing
+nltk==3.6.5
+
+# Miscellaneous
+numpy==1.21.2
