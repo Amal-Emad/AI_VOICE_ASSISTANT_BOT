@@ -1,4 +1,4 @@
-# 🚀 MAB.AI Project 🌌
+# 🚀 MAB.AI Project 
 
 ## 🤖 Project Name:
 
@@ -10,17 +10,8 @@ In this era of technological advancement, the MAB.AI Bot stands at the forefront
 
 As we embark on this journey, we aim to continuously enhance the capabilities of MAB.AI, making it an indispensable part of users' daily lives. From understanding and processing natural language to delivering informative responses, MAB.AI is designed to be a reliable and intelligent conversational partner.
 
-## Demo Overview
-
-- **Speech Recognition App - Test Video 1**
-  [![Speech Recognition App Test 1]((https://youtu.be/nWP3DEmk9sY))
-  
-- **Speech Recognition App - Test Video 2**
-  [![Speech Recognition App Test 2]((https://youtu.be/7yHlsIWEy-4))
-
-## Overview GIF
-
-![quick overview](https://github.com/Amal-Emad/MAB.AI-BOT/raw/main/MAB.AI%20(1).mp4)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+![Untitled design(2)](https://github.com/Amal-Emad/Simple_Voice_AssistanceBOT/assets/110675604/d8a5c35a-dece-418e-b46b-011fe18687d0)
 
 ## 2. Features
 
@@ -30,6 +21,7 @@ As we embark on this journey, we aim to continuously enhance the capabilities of
 
 🚀 **Ready to Experience MAB.AI's Conversational Intelligence?** [Let's Start Talking](MAB_AI_BOT.py)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🌟 Main Purpose
 
 The MAB.AI Project sets its sights on the following objectives:
@@ -42,10 +34,7 @@ The MAB.AI Project sets its sights on the following objectives:
 
 🌐 **Wikipedia Integration:** Submit questions to the bot, and it retrieves information from Wikipedia, delivering informative responses.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🚧 Project Update in Progress
 
-Hey there! The MAB.AI Project is currently under active development, and we're working tirelessly to enhance the capabilities of our intelligent bot. Expect exciting updates and improvements in the near future!
 
-As we continue to delve into the world of conversational AI, your feedback and suggestions are highly valued. Get ready for a more intelligent, responsive, and engaging MAB.AI experience!
-
-🚀 **Ready to Join the Conversation?** [Let's Chat with MAB.AI](MAB_AI_BOT.py)
